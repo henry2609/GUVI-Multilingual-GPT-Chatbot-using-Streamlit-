@@ -8,8 +8,7 @@ This repository contains the source code for the GUVI multilingual chatbot built
 
 Try the chatbot live on Hugging Face Spaces:
 
-[![Hugging Face Space](https://img.shields.io/badge/Hugging%20Face-Space-orange?logo=huggingface&style=flat-square)](https://huggingface.co/spaces/your-username/your-space-name)
-
+https://huggingface.co/spaces/Henry62/guvi_bot
 ---
 
 ## How to run locally
